@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  background: url(/assets/img/fondo.jpg) center center no-repeat fixed;
+  background: url(../img/fondo.jpg) center center no-repeat fixed;
   min-height:100%;
   background-size:cover;
 }
