@@ -1,0 +1,16 @@
+body {
+  overflow-x: hidden;
+}
+
+header {
+  background: url(/assets/img/fondo.jpg) center center no-repeat fixed;
+  min-height:100%;
+  background-size:cover;
+}
+
+.blk3{
+  background: rgb(108,180,168);
+  background: linear-gradient(318deg, rgba(108,180,168,1) 0%, rgba(145,192,184,1) 100%);
+}
+
+
