@@ -13,4 +13,9 @@ header {
   background: linear-gradient(318deg, rgba(108,180,168,1) 0%, rgba(145,192,184,1) 100%);
 }
 
+nav ul li a:hover{
+  background:darkcyan;
+  border-radius: 12px;
+}
+
 
