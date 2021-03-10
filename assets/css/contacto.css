@@ -1,0 +1,11 @@
+body {
+    overflow-x: hidden;
+    background: url(../img/fondo.jpg) center center no-repeat fixed;
+    min-height:100%;
+    background-size:cover;
+  }
+    
+  nav ul li a:hover{
+    background:darkcyan;
+    border-radius: 12px;
+  }
