@@ -11,6 +11,6 @@ Alumnos:
 
 2- Chevería Pacheco, William Giovanni
 
-3-
+3-Diaz Contrerras Jose Mario
 
 4-
